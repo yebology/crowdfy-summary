@@ -13,7 +13,7 @@ Welcome to Crowdfy, your go-to Web3 crowdfunding platform! 🎉 Harnessing the p
 
 ## ⚙️ Tech Stack Behind Crowdfy : 
 - 🖥️ Frontend : ReactTS (Typescript)
-- 🔧 Smart Contract Development : Foundry
+- 🔧 Smart Contract Development : Foundry (Solidity)
 - ⏰ Automation : Chainlink
 - ⚡ API Provider : Alchemy
 - 🎨 Styling : TailwindCSS

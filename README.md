@@ -21,5 +21,5 @@ Welcome to Crowdfy, your go-to Web3 crowdfunding platform! 🎉 Harnessing the p
 ## 🚀 Crowdfy Insights : Code, Contracts, and Demo 
 - 💻 dApp : [See the code](https://github.com/yebology/crowdfy-dapp.git)
 - 🔧 Smart Contract :  [See the code](https://github.com/yebology/crowdfy-smartcontract.git)
-- 📜 Contract Addresses : [View on Etherscan](https://sepolia.etherscan.io/address/0x43b17eff679d6ad83809a8152eb282c5040f9208)
+- 📜 Contract Address : [View on Etherscan](https://sepolia.etherscan.io/address/0x43b17eff679d6ad83809a8152eb282c5040f9208)
 - 🎥 Demo Video : [Watch the demo](https://drive.google.com/file/d/18yGWa3Xe4NLE9-gyEaVRPRwkHPl3GIrB/view) 

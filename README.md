@@ -1,6 +1,6 @@
 # Crowdfy : From Community, To Community 🚀
 ## ✨ Overview
-Welcome to Crowdfy, your go-to Web3 crowdfunding platform! 🎉 Harnessing the power of blockchain, Crowdfy provides a secure, transparent, and decentralized solution for all your fundraising needs. 🔒 Built on Ethereum and operating on the Sepolia ETH, Crowdfy is designed to help you bring your projects and initiatives to life. 🌐💡
+Welcome to Crowdfy, your go-to Web3 crowdfunding platform! 🎉 Harnessing the power of blockchain, Crowdfy provides a secure, transparent, and decentralized solution for all your fundraising needs. 🔒 Built on Ethereum network, Crowdfy is designed to help you bring your projects and initiatives to life. 🌐💡
 
 ## 💡 Features
 - 🛠️ Create Campaign
@@ -14,7 +14,7 @@ Welcome to Crowdfy, your go-to Web3 crowdfunding platform! 🎉 Harnessing the p
 ## ⚙️ Tech Stack Behind Crowdfy : 
 - 🖥️ Frontend : ReactTS (Typescript)
 - 🔧 Smart Contract Development : Foundry (Solidity)
-- 🔗 Library : Ethers.js
+- 🔗 Library : ethers.js
 - ⏰ Automation : Chainlink
 - ⚡ API Provider : Alchemy
 - 🎨 Styling : TailwindCSS

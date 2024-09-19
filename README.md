@@ -11,7 +11,7 @@ Welcome to Crowdfy, your go-to Web3 crowdfunding platform! 🎉 Harnessing the p
 - 🤝 Participate Campaign: Support your favorite campaigns with a minimum donation of 0.000001 ETH. ❤️ Your ETH will be transferred in real-time to the campaign creator`s wallet. Additionally, your address, donation amount, and time will be recorded for complete transparency. 🕒
 - 🔍 Monitoring: Keep track of all transactions with ease. Every interaction is transparent and securely stored in the Smart Contract. 🔐
 
-## ⚙️ Tech Stack Behind Crowdfy : 
+## ⚙️ Tech Stack Behind Crowdfy
 - 🖥️ Frontend : ReactTS (Typescript)
 - 🔧 Smart Contract Development : Foundry (Solidity)
 - 🔗 Library : ethers.js
@@ -19,7 +19,7 @@ Welcome to Crowdfy, your go-to Web3 crowdfunding platform! 🎉 Harnessing the p
 - ⚡ API Provider : Alchemy
 - 🎨 Styling : TailwindCSS
 
-## 🚀 Crowdfy Insights : Code, Contracts, and Demo 
+## 🚀 Crowdfy Insights
 - 💻 dApp : [See the code](https://github.com/yebology/crowdfy-dapp.git)
 - 🔧 Smart Contract :  [See the code](https://github.com/yebology/crowdfy-smartcontract.git)
 - 📜 Contract Address : [View on Etherscan](https://sepolia.etherscan.io/address/0x43b17eff679d6ad83809a8152eb282c5040f9208)

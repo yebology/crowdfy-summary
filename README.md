@@ -12,7 +12,7 @@ Welcome to Crowdfy, your go-to Web3 crowdfunding platform! 🎉 Harnessing the p
 - 🔍 Monitoring: Keep track of all transactions with ease. Every interaction is transparent and securely stored in the Smart Contract. 🔐
 
 ## ⚙️ Tech Stack Behind Crowdfy
-- 🖥️ Frontend : ReactTS (Typescript)
+- 🖥️ Frontend : React (Typescript)
 - 🔧 Smart Contract Development : Foundry (Solidity)
 - 🔗 Library : Ethers.js
 - ⏰ Automation : Chainlink
